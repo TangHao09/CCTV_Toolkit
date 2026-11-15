@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab)
-![License](https://img.shields.io/badge/license-LPGL2.1-green)
+![License](https://img.shields.io/badge/license-LGPL2.1-green)
 
 ---
 ## 快速开始
