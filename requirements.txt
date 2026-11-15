@@ -1,0 +1,5 @@
+# 运行依赖
+ttkbootstrap>=1.10
+
+# 打包依赖
+pyinstaller>=6.0
